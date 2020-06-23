@@ -1,5 +1,5 @@
 sceneSetups:
-- path: "Assets/\u904A\u6232\u5834\u666F.unity"
+- path: "C:/ted/Unity_Lion_CSharp/CSharp/Assets/\u7B2C8\u7AE0.\u7DF4\u7FD2.unity"
   isLoaded: 1
   isActive: 1
   isSubScene: 0
